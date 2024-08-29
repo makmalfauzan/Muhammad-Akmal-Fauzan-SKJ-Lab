@@ -8,7 +8,7 @@ int main() {
 
     result = num1 * num2;
 
-    cout << "Result: " << result << std::endl;
+    cout << "Result: " << result << endl;
 
     return 0;
 }
